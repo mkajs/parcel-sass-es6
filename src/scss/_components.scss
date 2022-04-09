@@ -1,0 +1,7 @@
+h1 {
+  @include container;
+  margin-top: 3.2rem;
+  display: flex;
+  align-items: center;
+  @include text-regular();
+}

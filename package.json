@@ -1,0 +1,17 @@
+{
+  "name": "parcel-init",
+  "version": "1.0.0",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "description": "",
+  "scripts": {
+    "start": "parcel public/index.html --dist-dir development -p 3000 --no-cache",
+    "build": "parcel build public/*.html --dist-dir dist --public-url ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.4.1",
+    "parcel": "^2.4.1"
+  }
+}
