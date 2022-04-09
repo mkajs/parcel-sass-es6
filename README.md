@@ -22,5 +22,5 @@ Your app is ready to be deployed!
 
 ### Font and Responsive
 
-In default IranSans font is used in scss/\_vase.scss that you can change it./
+In default 'IranSans' font is used in scss/\_base.scss that you can change it.\
 In order to use a default responsive setting i changed default browser font size in /scss/\_base.scss that you can change it.
